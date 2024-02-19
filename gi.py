@@ -12,4 +12,8 @@ class Car:
 
 my_car = Car('bmw','book','tehran')
 my_car.too()
+
+def my(name, age, city):
+    for mys in my:
+        print(mys)
     
