@@ -13,8 +13,7 @@ class Car:
 my_car = Car('bmw','book','tehran')
 my_car.too()
 
-print("name")
-print("name")
-print("name")
-print("name")
+def my(name, age, city):
+    for mys in my:
+        print(mys)
     
