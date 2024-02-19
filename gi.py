@@ -17,3 +17,7 @@ def my(name, age, city):
     print(name + " " + str(age) + " " + city)
 my('bb0', 55, 'ff')
 
+names = ['amir', 'tina', 'esra', 'ipec']
+for name in names:
+    print(name)
+
