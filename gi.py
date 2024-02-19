@@ -7,13 +7,13 @@ class Car:
         self.city = city
 
     def too(self): 
-        log = self.name + " " + self.model + " " + self.city
-        return log
+        print(self.name + " " + self.model + " " + self.city)
 
 my_car = Car('bmw','book','tehran')
 my_car.too()
 
 def my(name, age, city):
-    for mys in my:
-        print(mys)
-    
+
+    print(name + " " + str(age) + " " + city)
+my('bb0', 55, 'ff')
+
