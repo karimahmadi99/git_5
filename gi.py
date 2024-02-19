@@ -9,4 +9,7 @@ class Car:
     def too(self): 
         log = self.name + " " + self.model + " " + self.city
         return log
+
+my_car = Car('bmw','book','tehran')
+my_car.too()
     
