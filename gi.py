@@ -12,4 +12,9 @@ class Car:
 
 my_car = Car('bmw','book','tehran')
 my_car.too()
+
+print("name")
+print("name")
+print("name")
+print("name")
     
