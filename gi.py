@@ -25,3 +25,10 @@ names = ['amir', 'tina', 'esra', 'ipec']
 for name in names:
     print(name)
 
+names = ['amir', 'tina', 'esra', 'ipec']
+for name in names:
+    print(name)
+
+names = ['amir', 'tina', 'esra', 'ipec']
+for name in names:
+    print(name)
